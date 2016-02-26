@@ -103,8 +103,8 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Enjoy the server",
-"Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Thanks for the lugnuts server!",
+"This server is new so any help would be appreciated!"
 ];
 
 /*Random message order?*/
