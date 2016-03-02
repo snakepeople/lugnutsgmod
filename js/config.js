@@ -85,9 +85,9 @@ var l_musicDisplay = false;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "iywaBOMvYLI", name: "Toxicity"},
-	{youtube: "CSvFpBOe8eY", name: "Chop Suey!"},
-	{youtube: "zUzd9KyIDrM", name: "B.Y.O.B"}
+	{youtube: "4c874UIGcvY", name: "Seek & Destroy"},
+	{youtube: "t0ZgDyHqmFk", name: "Whipslash"},
+	{youtube: "_b6tJMD34qw", name: "For Whom The Bells Tolls"}
 ];
 
 /*Random music order?*/
