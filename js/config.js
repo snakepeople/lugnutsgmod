@@ -103,7 +103,7 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Enjoy the server",
-"Thanks for the lugnuts server!",
+"Thanks for joining the lugnuts server!",
 "This server is new so any help would be appreciated!"
 ];
 
